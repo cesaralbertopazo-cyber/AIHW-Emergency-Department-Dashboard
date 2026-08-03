@@ -126,6 +126,7 @@ The layout was deliberately simplified — a single clean hourly distribution ch
 - Hourly presentation pattern chart (by day of week)
 - Horizontal bar chart: % seen on time by triage category
 - Donut chart: patient episode outcome distribution
+- ![Executive Dashboard Preview](./dashboards/dashboard_preview.png)
 
 ---
 
